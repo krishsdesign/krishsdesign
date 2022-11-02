@@ -1,5 +1,5 @@
-- 👋 Hi, We are Krish's Design Agency. We are create startup design and development agency based in Sylhet, Bangladesh.
-- 💞️ We're looking to collaborate on Website Design and Developement Projects.
+- 👋 Hi, We are Krish's Design Agency. We are Creative Deisign & Development Agency based in Sylhet, Bangladesh.
+- 💞️ We're looking to collaborate on Porduct Design, UI/UX Design and Web Developement Projects.
 - 📫 You can email us at krishsstation@gmail.com.
 
 <!---
